@@ -1,0 +1,2 @@
+failFast=icu.ghost.rpc.fault.tolerant.FailFastTolerantStrategy
+failSafe=icu.ghost.rpc.fault.tolerant.FailSafeTolerantStrategy

@@ -1,0 +1,3 @@
+hessian=icu.ghost.rpc.serializer.HessianSerializer
+json=icu.ghost.rpc.serializer.JsonSerializer
+kryo=icu.ghost.rpc.serializer.KryoSerializer
